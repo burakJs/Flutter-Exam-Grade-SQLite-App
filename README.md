@@ -1,4 +1,4 @@
-# notlar_uygulamasi
+# Flutter-Exam-Grade-App
 
 A new Flutter project.
 

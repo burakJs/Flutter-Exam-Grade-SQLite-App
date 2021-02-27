@@ -79,7 +79,7 @@ class _NotKayitSayfaState extends State<NotKayitSayfa> {
       floatingActionButton: FloatingActionButton.extended(
         onPressed: () {
           if (formKey.currentState.validate()) {
-            kayit(tfDersAdi.text, int.parse(tfNot1.text), int.parse(tfNot1.text));
+            kayit(tfDersAdi.text, int.parse(tfNot1.text), int.parse(tfNot2.text));
           }
         },
         tooltip: 'Not Kayıt',
